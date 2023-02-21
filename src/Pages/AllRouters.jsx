@@ -12,5 +12,4 @@ const AllRouters = () => {
     </Routes>
   )
 }
-
 export default AllRouters
